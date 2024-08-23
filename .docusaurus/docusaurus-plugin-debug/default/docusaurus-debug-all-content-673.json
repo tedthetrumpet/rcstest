@@ -1,0 +1,354 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/dev/rcstemplate-2024-08-06/",
+          "tagsPath": "/dev/rcstemplate-2024-08-06/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/jsimon/github_repos_notd/rcstemplate-2024-08-06/sidebars.js",
+          "contentPath": "/Users/jsimon/github_repos_notd/rcstemplate-2024-08-06/docs",
+          "contentPathLocalized": "/Users/jsimon/github_repos_notd/rcstemplate-2024-08-06/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "appendices/index",
+              "title": "Appendices",
+              "description": "There is an argument to say that if information is important enough to be in the handbook, then it should not be in an appendix! However, this has proved a useful section to have in the PG Music handbooks, particularly for stand-alone polices such as the 'SoM Performance Opportunities and Commitments Policy' and the 'Change of Teacher' policy.",
+              "source": "@site/docs/appendices/index.md",
+              "sourceDirName": "appendices",
+              "slug": "/appendices/",
+              "permalink": "/dev/rcstemplate-2024-08-06/appendices/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Assessments",
+                "permalink": "/dev/rcstemplate-2024-08-06/assessments/"
+              }
+            },
+            {
+              "id": "assessments/index",
+              "title": "Assessments",
+              "description": "This section is likely only relevant to the MMus/MA handbook, where assessment information that might otherwise have been located in 'part 2' of the module descriptors has always had its own dedicated section in the handbook.",
+              "source": "@site/docs/assessments/index.md",
+              "sourceDirName": "assessments",
+              "slug": "/assessments/",
+              "permalink": "/dev/rcstemplate-2024-08-06/assessments/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Title of the Module",
+                "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template"
+              },
+              "next": {
+                "title": "Appendices",
+                "permalink": "/dev/rcstemplate-2024-08-06/appendices/"
+              }
+            },
+            {
+              "id": "handbook/assessment",
+              "title": "Assessment",
+              "description": "Comment I wonder whether some of the more formal information here could be moved into the 'Programme specification' instead? Keep this section more student-facing?",
+              "source": "@site/docs/handbook/assessment.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/assessment",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/assessment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Learning and teaching",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching"
+              },
+              "next": {
+                "title": "Learning environment",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_environment"
+              }
+            },
+            {
+              "id": "handbook/attendance",
+              "title": "Attendance",
+              "description": "This section is not in the current handbook template, but we do have it quite prominently in the current PG Music handbooks!",
+              "source": "@site/docs/handbook/attendance.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/attendance",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/attendance",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Learning environment",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_environment"
+              },
+              "next": {
+                "title": "Modules",
+                "permalink": "/dev/rcstemplate-2024-08-06/modules/"
+              }
+            },
+            {
+              "id": "handbook/index",
+              "title": "Introduction",
+              "description": "This section will be a student-facing welcome and introduction to the context and philosopy of the programme.",
+              "source": "@site/docs/handbook/index.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "handbookSidebar",
+              "next": {
+                "title": "Programme specification",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification"
+              }
+            },
+            {
+              "id": "handbook/learning_and_teaching",
+              "title": "Learning and teaching",
+              "description": "The current guidance note states 'please refer to the RCS Learning and Teaching Strategy, outlining the ways in which your Programmes aligns with the vision, mission and values' and quotes a section of the Strategy 2030.",
+              "source": "@site/docs/handbook/learning_and_teaching.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/learning_and_teaching",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Programme specification",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification"
+              },
+              "next": {
+                "title": "Assessment",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/assessment"
+              }
+            },
+            {
+              "id": "handbook/learning_environment",
+              "title": "Learning environment",
+              "description": "Current guidance note: append appropriate guidelines for programme specific practices. Reference could be made to relevant sections of the Regulations, Codes of Procedure and General Rules, Dignity at Work and Study Statement and Guidance, and the Enhanced Support to Study Policy",
+              "source": "@site/docs/handbook/learning_environment.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/learning_environment",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_environment",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Assessment",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/assessment"
+              },
+              "next": {
+                "title": "Attendance",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/attendance"
+              }
+            },
+            {
+              "id": "handbook/programme_specification",
+              "title": "Programme specification",
+              "description": "The 'programme specification' is central to what the QAA term the 'definitive course document' that constitutes 'the approved definition of a course […], which should contain sufficient information for stakeholders about intended aims and learning outcomes and about the approach to teaching, learning and assessment'.",
+              "source": "@site/docs/handbook/programme_specification.md",
+              "sourceDirName": "handbook",
+              "slug": "/handbook/programme_specification",
+              "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/"
+              },
+              "next": {
+                "title": "Learning and teaching",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching"
+              }
+            },
+            {
+              "id": "modules/index",
+              "title": "Modules",
+              "description": "This page is currently just a link to a list of modules. However, it could be used as some general explanatory information? A glossary? What does 'formative' mean? What are 'SCQF levels?'.",
+              "source": "@site/docs/modules/index.md",
+              "sourceDirName": "modules",
+              "slug": "/modules/",
+              "permalink": "/dev/rcstemplate-2024-08-06/modules/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Attendance",
+                "permalink": "/dev/rcstemplate-2024-08-06/handbook/attendance"
+              },
+              "next": {
+                "title": "Title of the Module",
+                "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template"
+              }
+            },
+            {
+              "id": "modules/module_template",
+              "title": "Title of the Module",
+              "description": "Overview",
+              "source": "@site/docs/modules/module_template.md",
+              "sourceDirName": "modules",
+              "slug": "/modules/module_template",
+              "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "handbookSidebar",
+              "previous": {
+                "title": "Modules",
+                "permalink": "/dev/rcstemplate-2024-08-06/modules/"
+              },
+              "next": {
+                "title": "Assessments",
+                "permalink": "/dev/rcstemplate-2024-08-06/assessments/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "handbookSidebar": [
+              {
+                "type": "category",
+                "label": "Introduction",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "handbook/programme_specification"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "handbook/learning_and_teaching"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "handbook/assessment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "handbook/learning_environment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "handbook/attendance"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "handbook/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Modules",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module_template"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "modules/index"
+                }
+              },
+              {
+                "type": "doc",
+                "label": "Assessments",
+                "id": "assessments/index"
+              },
+              {
+                "type": "doc",
+                "label": "Appendices",
+                "id": "appendices/index"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/dev/rcstemplate-2024-08-06/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

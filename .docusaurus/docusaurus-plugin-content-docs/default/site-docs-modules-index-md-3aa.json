@@ -1,0 +1,26 @@
+{
+  "id": "modules/index",
+  "title": "Modules",
+  "description": "This page is currently just a link to a list of modules. However, it could be used as some general explanatory information? A glossary? What does 'formative' mean? What are 'SCQF levels?'.",
+  "source": "@site/docs/modules/index.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/",
+  "permalink": "/dev/rcstemplate-2024-08-06/modules/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "handbookSidebar",
+  "previous": {
+    "title": "Attendance",
+    "permalink": "/dev/rcstemplate-2024-08-06/handbook/attendance"
+  },
+  "next": {
+    "title": "Title of the Module",
+    "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template"
+  }
+}

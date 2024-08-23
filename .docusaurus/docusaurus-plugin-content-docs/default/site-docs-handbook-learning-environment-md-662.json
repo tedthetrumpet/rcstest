@@ -1,0 +1,26 @@
+{
+  "id": "handbook/learning_environment",
+  "title": "Learning environment",
+  "description": "Current guidance note: append appropriate guidelines for programme specific practices. Reference could be made to relevant sections of the Regulations, Codes of Procedure and General Rules, Dignity at Work and Study Statement and Guidance, and the Enhanced Support to Study Policy",
+  "source": "@site/docs/handbook/learning_environment.md",
+  "sourceDirName": "handbook",
+  "slug": "/handbook/learning_environment",
+  "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_environment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "handbookSidebar",
+  "previous": {
+    "title": "Assessment",
+    "permalink": "/dev/rcstemplate-2024-08-06/handbook/assessment"
+  },
+  "next": {
+    "title": "Attendance",
+    "permalink": "/dev/rcstemplate-2024-08-06/handbook/attendance"
+  }
+}

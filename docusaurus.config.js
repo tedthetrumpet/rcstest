@@ -1,0 +1,95 @@
+// @ts-check
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
+
+import { themes as prismThemes } from 'prism-react-renderer';
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'Handbook Template @ 6 Aug 2024',
+  // tagline: 'this is the tagline',
+  // favicon: 'img/favicon.ico',
+
+  // Set the production url of your site here
+  url: 'https://handbooks.rcs.ac.uk',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  baseUrl: '/dev/rcstemplate-2024-08-06/',
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  plugins: [require.resolve('docusaurus-lunr-search')],
+
+
+  presets: [
+    [
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          sidebarPath: './sidebars.js',
+          routeBasePath: '/'
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+        blog: false,
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      // Replace with your project's social card
+      // image: 'img/docusaurus-social-card.jpg',
+      navbar: {
+        title: 'Handbook Template',
+        /* logo: {
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
+        }, */
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'handbookSidebar',
+            position: 'left',
+            label: 'Handbook',
+          },
+          //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://www.rcs.ac.uk/',
+            label: 'RCS',
+            position: 'right',
+          },
+        ],
+      },
+      footer: {
+        style: 'dark',
+        /* copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`, */
+        copyright: `Handbook template draft @ 6 August 2024`,
+      },
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};
+
+export default config;

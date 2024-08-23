@@ -1,0 +1,26 @@
+{
+  "id": "handbook/programme_specification",
+  "title": "Programme specification",
+  "description": "The 'programme specification' is central to what the QAA term the 'definitive course document' that constitutes 'the approved definition of a course […], which should contain sufficient information for stakeholders about intended aims and learning outcomes and about the approach to teaching, learning and assessment'.",
+  "source": "@site/docs/handbook/programme_specification.md",
+  "sourceDirName": "handbook",
+  "slug": "/handbook/programme_specification",
+  "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "handbookSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/dev/rcstemplate-2024-08-06/handbook/"
+  },
+  "next": {
+    "title": "Learning and teaching",
+    "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching"
+  }
+}

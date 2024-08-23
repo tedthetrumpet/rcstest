@@ -1,0 +1,62 @@
+{
+  "/dev/rcstemplate-2024-08-06/-b97": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "85cf4686"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/dev/rcstemplate-2024-08-06/-bdf": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "8945368d"
+    }
+  },
+  "/dev/rcstemplate-2024-08-06/-05e": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/dev/rcstemplate-2024-08-06/-20a": {
+    "__comp": "a94703ab"
+  },
+  "/dev/rcstemplate-2024-08-06/appendices/-672": {
+    "__comp": "17896441",
+    "content": "ec08ace5"
+  },
+  "/dev/rcstemplate-2024-08-06/assessments/-441": {
+    "__comp": "17896441",
+    "content": "ce12a471"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/-68e": {
+    "__comp": "17896441",
+    "content": "19680d32"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/assessment-807": {
+    "__comp": "17896441",
+    "content": "caa2ab6b"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/attendance-d27": {
+    "__comp": "17896441",
+    "content": "cef6e59f"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching-9d7": {
+    "__comp": "17896441",
+    "content": "6df2bf31"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/learning_environment-33a": {
+    "__comp": "17896441",
+    "content": "6622f52e"
+  },
+  "/dev/rcstemplate-2024-08-06/handbook/programme_specification-2c9": {
+    "__comp": "17896441",
+    "content": "0a795b25"
+  },
+  "/dev/rcstemplate-2024-08-06/modules/-ff5": {
+    "__comp": "17896441",
+    "content": "3aa08db4"
+  },
+  "/dev/rcstemplate-2024-08-06/modules/module_template-350": {
+    "__comp": "17896441",
+    "content": "da79a265"
+  }
+}

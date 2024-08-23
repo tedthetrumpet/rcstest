@@ -1,0 +1,22 @@
+{
+  "id": "appendices/index",
+  "title": "Appendices",
+  "description": "There is an argument to say that if information is important enough to be in the handbook, then it should not be in an appendix! However, this has proved a useful section to have in the PG Music handbooks, particularly for stand-alone polices such as the 'SoM Performance Opportunities and Commitments Policy' and the 'Change of Teacher' policy.",
+  "source": "@site/docs/appendices/index.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/",
+  "permalink": "/dev/rcstemplate-2024-08-06/appendices/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "handbookSidebar",
+  "previous": {
+    "title": "Assessments",
+    "permalink": "/dev/rcstemplate-2024-08-06/assessments/"
+  }
+}
