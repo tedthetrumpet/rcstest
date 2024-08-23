@@ -2,70 +2,70 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1724422597989.json",
-        "lunrIndex": "lunr-index-1724422597989.json"
+        "searchDoc": "search-doc-1724422956576.json",
+        "lunrIndex": "lunr-index-1724422956576.json"
       }
     }
   },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/rcstest/",
+      "path": "/rcstest/build/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/rcstest/",
+          "path": "/rcstest/build/",
           "mainDocId": "handbook/index",
           "docs": [
             {
               "id": "appendices/index",
-              "path": "/rcstest/appendices/",
+              "path": "/rcstest/build/appendices/",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "assessments/index",
-              "path": "/rcstest/assessments/",
+              "path": "/rcstest/build/assessments/",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/assessment",
-              "path": "/rcstest/handbook/assessment",
+              "path": "/rcstest/build/handbook/assessment",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/attendance",
-              "path": "/rcstest/handbook/attendance",
+              "path": "/rcstest/build/handbook/attendance",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/index",
-              "path": "/rcstest/handbook/",
+              "path": "/rcstest/build/handbook/",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/learning_and_teaching",
-              "path": "/rcstest/handbook/learning_and_teaching",
+              "path": "/rcstest/build/handbook/learning_and_teaching",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/learning_environment",
-              "path": "/rcstest/handbook/learning_environment",
+              "path": "/rcstest/build/handbook/learning_environment",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "handbook/programme_specification",
-              "path": "/rcstest/handbook/programme_specification",
+              "path": "/rcstest/build/handbook/programme_specification",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "modules/index",
-              "path": "/rcstest/modules/",
+              "path": "/rcstest/build/modules/",
               "sidebar": "handbookSidebar"
             },
             {
               "id": "modules/module_template",
-              "path": "/rcstest/modules/module_template",
+              "path": "/rcstest/build/modules/module_template",
               "sidebar": "handbookSidebar"
             }
           ],
@@ -73,7 +73,7 @@
           "sidebars": {
             "handbookSidebar": {
               "link": {
-                "path": "/rcstest/handbook/",
+                "path": "/rcstest/build/handbook/",
                 "label": "Introduction"
               }
             }

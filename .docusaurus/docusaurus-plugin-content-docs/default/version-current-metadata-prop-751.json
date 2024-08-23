@@ -18,40 +18,40 @@
           {
             "type": "link",
             "label": "Programme specification",
-            "href": "/rcstest/handbook/programme_specification",
+            "href": "/rcstest/build/handbook/programme_specification",
             "docId": "handbook/programme_specification",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Learning and teaching",
-            "href": "/rcstest/handbook/learning_and_teaching",
+            "href": "/rcstest/build/handbook/learning_and_teaching",
             "docId": "handbook/learning_and_teaching",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Assessment",
-            "href": "/rcstest/handbook/assessment",
+            "href": "/rcstest/build/handbook/assessment",
             "docId": "handbook/assessment",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Learning environment",
-            "href": "/rcstest/handbook/learning_environment",
+            "href": "/rcstest/build/handbook/learning_environment",
             "docId": "handbook/learning_environment",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Attendance",
-            "href": "/rcstest/handbook/attendance",
+            "href": "/rcstest/build/handbook/attendance",
             "docId": "handbook/attendance",
             "unlisted": false
           }
         ],
-        "href": "/rcstest/handbook/"
+        "href": "/rcstest/build/handbook/"
       },
       {
         "type": "category",
@@ -62,24 +62,24 @@
           {
             "type": "link",
             "label": "Title of the Module",
-            "href": "/rcstest/modules/module_template",
+            "href": "/rcstest/build/modules/module_template",
             "docId": "modules/module_template",
             "unlisted": false
           }
         ],
-        "href": "/rcstest/modules/"
+        "href": "/rcstest/build/modules/"
       },
       {
         "type": "link",
         "label": "Assessments",
-        "href": "/rcstest/assessments/",
+        "href": "/rcstest/build/assessments/",
         "docId": "assessments/index",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Appendices",
-        "href": "/rcstest/appendices/",
+        "href": "/rcstest/build/appendices/",
         "docId": "appendices/index",
         "unlisted": false
       }

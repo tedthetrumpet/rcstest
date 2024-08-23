@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/index.md",
   "sourceDirName": "modules",
   "slug": "/modules/",
-  "permalink": "/rcstest/modules/",
+  "permalink": "/rcstest/build/modules/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Attendance",
-    "permalink": "/rcstest/handbook/attendance"
+    "permalink": "/rcstest/build/handbook/attendance"
   },
   "next": {
     "title": "Title of the Module",
-    "permalink": "/rcstest/modules/module_template"
+    "permalink": "/rcstest/build/modules/module_template"
   }
 }

@@ -3,79 +3,79 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/rcstest/',
-    component: ComponentCreator('/rcstest/', '63a'),
+    path: '/rcstest/build/',
+    component: ComponentCreator('/rcstest/build/', '6b2'),
     exact: true
   },
   {
-    path: '/rcstest/',
-    component: ComponentCreator('/rcstest/', '994'),
+    path: '/rcstest/build/',
+    component: ComponentCreator('/rcstest/build/', '502'),
     routes: [
       {
-        path: '/rcstest/',
-        component: ComponentCreator('/rcstest/', '70a'),
+        path: '/rcstest/build/',
+        component: ComponentCreator('/rcstest/build/', '121'),
         routes: [
           {
-            path: '/rcstest/',
-            component: ComponentCreator('/rcstest/', '024'),
+            path: '/rcstest/build/',
+            component: ComponentCreator('/rcstest/build/', 'f22'),
             routes: [
               {
-                path: '/rcstest/appendices',
-                component: ComponentCreator('/rcstest/appendices', 'e4c'),
+                path: '/rcstest/build/appendices',
+                component: ComponentCreator('/rcstest/build/appendices', 'b9a'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/assessments',
-                component: ComponentCreator('/rcstest/assessments', '416'),
+                path: '/rcstest/build/assessments',
+                component: ComponentCreator('/rcstest/build/assessments', 'f4b'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook',
-                component: ComponentCreator('/rcstest/handbook', '9b3'),
+                path: '/rcstest/build/handbook',
+                component: ComponentCreator('/rcstest/build/handbook', 'a8a'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook/assessment',
-                component: ComponentCreator('/rcstest/handbook/assessment', '017'),
+                path: '/rcstest/build/handbook/assessment',
+                component: ComponentCreator('/rcstest/build/handbook/assessment', '88b'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook/attendance',
-                component: ComponentCreator('/rcstest/handbook/attendance', '091'),
+                path: '/rcstest/build/handbook/attendance',
+                component: ComponentCreator('/rcstest/build/handbook/attendance', '417'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook/learning_and_teaching',
-                component: ComponentCreator('/rcstest/handbook/learning_and_teaching', '8f3'),
+                path: '/rcstest/build/handbook/learning_and_teaching',
+                component: ComponentCreator('/rcstest/build/handbook/learning_and_teaching', 'df1'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook/learning_environment',
-                component: ComponentCreator('/rcstest/handbook/learning_environment', 'a6b'),
+                path: '/rcstest/build/handbook/learning_environment',
+                component: ComponentCreator('/rcstest/build/handbook/learning_environment', '525'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/handbook/programme_specification',
-                component: ComponentCreator('/rcstest/handbook/programme_specification', '2a1'),
+                path: '/rcstest/build/handbook/programme_specification',
+                component: ComponentCreator('/rcstest/build/handbook/programme_specification', '2bc'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/modules',
-                component: ComponentCreator('/rcstest/modules', '87f'),
+                path: '/rcstest/build/modules',
+                component: ComponentCreator('/rcstest/build/modules', 'ea4'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/rcstest/modules/module_template',
-                component: ComponentCreator('/rcstest/modules/module_template', 'ce7'),
+                path: '/rcstest/build/modules/module_template',
+                component: ComponentCreator('/rcstest/build/modules/module_template', '88f'),
                 exact: true,
                 sidebar: "handbookSidebar"
               }

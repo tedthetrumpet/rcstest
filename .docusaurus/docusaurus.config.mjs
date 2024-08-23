@@ -6,7 +6,7 @@
 export default {
   "title": "Test Handbook",
   "url": "https://tedthetrumpet.github.io",
-  "baseUrl": "/rcstest/",
+  "baseUrl": "/rcstest/build/",
   "organizationName": "tedthetrumpet",
   "projectName": "rcstest",
   "trailingSlash": false,

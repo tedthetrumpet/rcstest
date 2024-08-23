@@ -5,7 +5,7 @@
   "source": "@site/docs/handbook/assessment.md",
   "sourceDirName": "handbook",
   "slug": "/handbook/assessment",
-  "permalink": "/rcstest/handbook/assessment",
+  "permalink": "/rcstest/build/handbook/assessment",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Learning and teaching",
-    "permalink": "/rcstest/handbook/learning_and_teaching"
+    "permalink": "/rcstest/build/handbook/learning_and_teaching"
   },
   "next": {
     "title": "Learning environment",
-    "permalink": "/rcstest/handbook/learning_environment"
+    "permalink": "/rcstest/build/handbook/learning_environment"
   }
 }
