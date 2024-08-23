@@ -22,6 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tedthetrumpet', // Usually your GitHub org/user name.
   projectName: 'rcstest', // Usually your repo name.
+  trailingSlash: false,
 
 
 
