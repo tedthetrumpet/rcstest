@@ -8,14 +8,22 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Handbook Template @ 6 Aug 2024',
+  title: 'Test Handbook',
   // tagline: 'this is the tagline',
   // favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://handbooks.rcs.ac.uk',
+  url: 'https://tedthetrumpet.github.io/rcstest',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/dev/rcstemplate-2024-08-06/',
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/rcstest/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'tedthetrumpet', // Usually your GitHub org/user name.
+  projectName: 'rcstest', // Usually your repo name.
+
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
