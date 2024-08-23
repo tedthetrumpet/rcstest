@@ -1,0 +1,5 @@
+https://medium.com/@nathvichea/github-action-to-deploy-docusaurus-8c297eaf1514
+
+https://github.com/peaceiris/actions-gh-pages
+
+Tried adding publish_branch: main
