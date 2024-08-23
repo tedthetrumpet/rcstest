@@ -3,79 +3,79 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/dev/rcstemplate-2024-08-06/',
-    component: ComponentCreator('/dev/rcstemplate-2024-08-06/', 'b97'),
+    path: '/rcstest/',
+    component: ComponentCreator('/rcstest/', '63a'),
     exact: true
   },
   {
-    path: '/dev/rcstemplate-2024-08-06/',
-    component: ComponentCreator('/dev/rcstemplate-2024-08-06/', 'bdf'),
+    path: '/rcstest/',
+    component: ComponentCreator('/rcstest/', '994'),
     routes: [
       {
-        path: '/dev/rcstemplate-2024-08-06/',
-        component: ComponentCreator('/dev/rcstemplate-2024-08-06/', '05e'),
+        path: '/rcstest/',
+        component: ComponentCreator('/rcstest/', '70a'),
         routes: [
           {
-            path: '/dev/rcstemplate-2024-08-06/',
-            component: ComponentCreator('/dev/rcstemplate-2024-08-06/', '20a'),
+            path: '/rcstest/',
+            component: ComponentCreator('/rcstest/', '024'),
             routes: [
               {
-                path: '/dev/rcstemplate-2024-08-06/appendices/',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/appendices/', '672'),
+                path: '/rcstest/appendices',
+                component: ComponentCreator('/rcstest/appendices', 'e4c'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/assessments/',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/assessments/', '441'),
+                path: '/rcstest/assessments',
+                component: ComponentCreator('/rcstest/assessments', '416'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/', '68e'),
+                path: '/rcstest/handbook',
+                component: ComponentCreator('/rcstest/handbook', '9b3'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/assessment',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/assessment', '807'),
+                path: '/rcstest/handbook/assessment',
+                component: ComponentCreator('/rcstest/handbook/assessment', '017'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/attendance',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/attendance', 'd27'),
+                path: '/rcstest/handbook/attendance',
+                component: ComponentCreator('/rcstest/handbook/attendance', '091'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching', '9d7'),
+                path: '/rcstest/handbook/learning_and_teaching',
+                component: ComponentCreator('/rcstest/handbook/learning_and_teaching', '8f3'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/learning_environment',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/learning_environment', '33a'),
+                path: '/rcstest/handbook/learning_environment',
+                component: ComponentCreator('/rcstest/handbook/learning_environment', 'a6b'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/handbook/programme_specification',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/handbook/programme_specification', '2c9'),
+                path: '/rcstest/handbook/programme_specification',
+                component: ComponentCreator('/rcstest/handbook/programme_specification', '2a1'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/modules/',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/modules/', 'ff5'),
+                path: '/rcstest/modules',
+                component: ComponentCreator('/rcstest/modules', '87f'),
                 exact: true,
                 sidebar: "handbookSidebar"
               },
               {
-                path: '/dev/rcstemplate-2024-08-06/modules/module_template',
-                component: ComponentCreator('/dev/rcstemplate-2024-08-06/modules/module_template', '350'),
+                path: '/rcstest/modules/module_template',
+                component: ComponentCreator('/rcstest/modules/module_template', 'ce7'),
                 exact: true,
                 sidebar: "handbookSidebar"
               }

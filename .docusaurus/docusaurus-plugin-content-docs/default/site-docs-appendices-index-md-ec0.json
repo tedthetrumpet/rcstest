@@ -5,7 +5,7 @@
   "source": "@site/docs/appendices/index.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/",
-  "permalink": "/dev/rcstemplate-2024-08-06/appendices/",
+  "permalink": "/rcstest/appendices/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Assessments",
-    "permalink": "/dev/rcstemplate-2024-08-06/assessments/"
+    "permalink": "/rcstest/assessments/"
   }
 }

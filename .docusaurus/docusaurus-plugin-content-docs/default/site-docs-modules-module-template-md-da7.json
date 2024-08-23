@@ -5,7 +5,7 @@
   "source": "@site/docs/modules/module_template.md",
   "sourceDirName": "modules",
   "slug": "/modules/module_template",
-  "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template",
+  "permalink": "/rcstest/modules/module_template",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Modules",
-    "permalink": "/dev/rcstemplate-2024-08-06/modules/"
+    "permalink": "/rcstest/modules/"
   },
   "next": {
     "title": "Assessments",
-    "permalink": "/dev/rcstemplate-2024-08-06/assessments/"
+    "permalink": "/rcstest/assessments/"
   }
 }

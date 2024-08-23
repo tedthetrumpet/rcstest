@@ -5,7 +5,7 @@
   "source": "@site/docs/handbook/programme_specification.md",
   "sourceDirName": "handbook",
   "slug": "/handbook/programme_specification",
-  "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification",
+  "permalink": "/rcstest/handbook/programme_specification",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/dev/rcstemplate-2024-08-06/handbook/"
+    "permalink": "/rcstest/handbook/"
   },
   "next": {
     "title": "Learning and teaching",
-    "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching"
+    "permalink": "/rcstest/handbook/learning_and_teaching"
   }
 }

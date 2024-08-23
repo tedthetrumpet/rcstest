@@ -4,9 +4,12 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Handbook Template @ 6 Aug 2024",
-  "url": "https://handbooks.rcs.ac.uk",
-  "baseUrl": "/dev/rcstemplate-2024-08-06/",
+  "title": "Test Handbook",
+  "url": "https://tedthetrumpet.github.io",
+  "baseUrl": "/rcstest/",
+  "organizationName": "tedthetrumpet",
+  "projectName": "rcstest",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -18,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "plugins": [
-    "/Users/jsimon/github_repos_notd/rcstemplate-2024-08-06/node_modules/docusaurus-lunr-search/src/index.js"
+    "/Users/jsimon/github_repos_notd/rcstest/node_modules/docusaurus-lunr-search/src/index.js"
   ],
   "presets": [
     [

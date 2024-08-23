@@ -5,7 +5,7 @@
   "source": "@site/docs/handbook/learning_and_teaching.md",
   "sourceDirName": "handbook",
   "slug": "/handbook/learning_and_teaching",
-  "permalink": "/dev/rcstemplate-2024-08-06/handbook/learning_and_teaching",
+  "permalink": "/rcstest/handbook/learning_and_teaching",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Programme specification",
-    "permalink": "/dev/rcstemplate-2024-08-06/handbook/programme_specification"
+    "permalink": "/rcstest/handbook/programme_specification"
   },
   "next": {
     "title": "Assessment",
-    "permalink": "/dev/rcstemplate-2024-08-06/handbook/assessment"
+    "permalink": "/rcstest/handbook/assessment"
   }
 }

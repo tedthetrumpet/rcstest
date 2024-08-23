@@ -5,7 +5,7 @@
   "source": "@site/docs/assessments/index.md",
   "sourceDirName": "assessments",
   "slug": "/assessments/",
-  "permalink": "/dev/rcstemplate-2024-08-06/assessments/",
+  "permalink": "/rcstest/assessments/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "handbookSidebar",
   "previous": {
     "title": "Title of the Module",
-    "permalink": "/dev/rcstemplate-2024-08-06/modules/module_template"
+    "permalink": "/rcstest/modules/module_template"
   },
   "next": {
     "title": "Appendices",
-    "permalink": "/dev/rcstemplate-2024-08-06/appendices/"
+    "permalink": "/rcstest/appendices/"
   }
 }
